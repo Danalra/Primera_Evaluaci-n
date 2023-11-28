@@ -1,0 +1,12 @@
+package entornosDesarrollo;
+
+public class prueba {
+
+	public static void main(String[] args) {
+		System.out.println("Hola mundo");
+
+	}
+
+}
+
+// Que pida un 
